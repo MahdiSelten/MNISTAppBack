@@ -1,5 +1,5 @@
 fastapi
-tensorflow
+tensorflow-cpu
 pydantic
 base64
 numpy
