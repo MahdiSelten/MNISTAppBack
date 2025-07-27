@@ -1,0 +1,6 @@
+fastapi
+tensorflow
+pydantic
+base64
+numpy
+cv2
