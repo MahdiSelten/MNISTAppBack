@@ -4,3 +4,4 @@ pydantic
 numpy
 opencv-python
 uvicorn
+tensorflow-cpu
