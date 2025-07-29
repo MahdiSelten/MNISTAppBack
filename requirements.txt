@@ -1,5 +1,5 @@
 fastapi
-tensorflow-cpu
+keras
 pydantic
 numpy
 opencv-python
