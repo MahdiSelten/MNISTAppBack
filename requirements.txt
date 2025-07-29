@@ -2,4 +2,4 @@ fastapi
 tensorflow-cpu
 pydantic
 numpy
-opencv-python-headless
+opencv-python
