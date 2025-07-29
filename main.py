@@ -8,12 +8,12 @@ import base64
 import numpy as np
 import cv2
 
-import keras
+import tensorflow as tf
 
 app = FastAPI()
 
 
-model = keras.models.load_model("../MNISTModel2.keras")
+model = tf.keras.models.load_model("../MNISTModel2.keras")
 
 app.add_middleware(
     CORSMiddleware,
