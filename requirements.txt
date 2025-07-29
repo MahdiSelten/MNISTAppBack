@@ -3,3 +3,4 @@ keras
 pydantic
 numpy
 opencv-python
+uvicorn
